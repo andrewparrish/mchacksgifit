@@ -1,2 +1,4 @@
 *.pyc
 localsettings.py
+*.jpg
+*.mp4
